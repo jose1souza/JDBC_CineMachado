@@ -1,0 +1,46 @@
+# Compilados Java
+*.class
+
+# Logs
+*.log
+
+# Arquivos de configuração temporários
+*.tmp
+*.bak
+*.swp
+
+# Diretórios de build
+/bin/
+/build/
+/out/
+
+# IDEs
+## Eclipse
+*.launch
+.settings/
+.project
+.classpath
+
+## IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+/target/
+
+# Gradle
+.gradle/
+/build/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Banco de dados local (se houver)
+*.db
+*.sql
+
+# Arquivos de ambiente
+.env
